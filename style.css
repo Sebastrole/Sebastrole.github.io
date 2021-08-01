@@ -90,7 +90,7 @@ nav ul li a {
 */
 
 table .btn {
-    width: 2.3rem;
+    width: 2.8rem;
     height: 1.8rem;
 }
 
@@ -121,15 +121,17 @@ table .btn {
 .resultadopant {
     position: relative;
     color: rgb(255, 255, 255);
-    bottom: 320px;
+    bottom: 330px;
     left: 24%;
     width: 20%;
+
 }
 
 #botRetirar {
-    position: absolute;
-    bottom: 38%;
-    left: 50%;
+    position: relative;
+    bottom: 178px;
+    left: 25%;
+    font-size: 0.8rem;
 }
 
 #particles-js{
